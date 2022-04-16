@@ -1,0 +1,19 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.black{
+    color: black;
+}
+.align-center{
+    text-align: center;
+}
+a{
+    font-family:'Courier New', Courier, monospace;
+    color: rgba(245,245,245,.9);
+}
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
